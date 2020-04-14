@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title></title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="layoutresponsivo.css">
+	<link href='http://necolas.github.io/normalize.css/+Sans:300,400,600,700,800' rel='stylesheet&#039' type='text/css'>
+	<meta name="viewport" content="width=divice-width, initial-scale=1.0">
+
+</head>
+
+<body class="center clearfix">
+	<header>
+		
+		<nav>
+			<ul>
+
+				<li><a href="">home</a></li>
+				<li><a href="">html</a></li>
+				<li><a href="">css</a></li>
+				<li><a href="" class="ativo">responsive</a></li>
+				<li><a href="">contato</a></li>
+
+			</ul>
+		</nav>
+		<h1>Logotipo</h1>
+		
+	</header>
+
+	<section class="chamada">
+
+		<h2>como criar um site responsivo em html e css</h2>
+		<h3 class="subtitulo">DNAIUFBSEGIYBNSIJGNBSJRGBVIURVSRBVIRUSBVGUIRSVdadasddasdfasffffAcsffwsfagfhddasdsadsadaf</h3>
+
+	</section>
+
+	<section class="container">
+		
+		<div class="desktop">
+			<h3>site responsivo desktop</h3>
+			<p>Com este tutorial você verá e aprenderá, de maneira simples, como criar um site responsivo,
+            multivisualização de dispositivos onde poderá ser bem visualizado na maioria dos desktops, tablets
+          e smartphones.&lt;/p&gt;</p>
+		</div>
+
+		<div class="tablet">
+			<h3>site responsivo tablet</h3>
+			<p>Com este tutorial você verá e aprenderá, de maneira simples, como criar um site responsivo,
+            multivisualização de dispositivos onde poderá ser bem visualizado na maioria dos desktops, tablets
+          e smartphones.&lt;/p&gt;</p>
+		</div>
+
+		<div class="mobile">
+			<h3>site responsivo mobile</h3>
+			<p>Com este tutorial você verá e aprenderá, de maneira simples, como criar um site responsivo,
+            multivisualização de dispositivos onde poderá ser bem visualizado na maioria dos desktops, tablets
+          e smartphones.&lt;/p&gt;</p>
+		</div>
+
+	</section>
+
+	<footer>
+		<small class="copyright">
+			<P>copyright ₢</P>
+		</small>
+		<small class="desenvolvedor">
+			desenvolvedor
+		</small>
+	</footer>
+
+</body>
+</html>
